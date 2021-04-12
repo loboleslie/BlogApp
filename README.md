@@ -1,5 +1,10 @@
 # BlogApp
 
+*************
+Prerequisites 
+*************
+Latest version of Node must be installed on the machine
+
 Instructions to run the App.
 
 Backend
